@@ -1,0 +1,51 @@
+body{
+
+    
+    background-color: #fcfcfc;
+    margin: 10px 900px 0 50px;
+
+
+}
+
+
+h1{
+    
+    font-size: 40px;
+    margin-bottom: 28px;
+    color: #764e36;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-width:2px 0 2px 0;
+    border-style: solid;
+    padding: 1px;
+
+}
+
+h2{
+
+    font-size: 30px;
+    background-color: #764e36;
+    color: #ffffff;
+    padding: 4px;
+    margin:25px 0 25px 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+}
+
+p{
+
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+img{
+
+    color: #764e36;
+    border: 2px solid;
+    padding: 10px;
+    border-width: 3px 3px 3px 3px ;
+    margin: 0 0 24px 0;
+
+}
